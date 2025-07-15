@@ -24,23 +24,19 @@ const palabras = [
     "Con carita triste 🥺",
     "Hazlo por la ciencia",
     "No lo pienses",
-    "Vamos, tú puedes",
-    "Confío en ti",
+    "Lo harias por una salcuipapa?",
+    "Ni por 2 salchipapas",
     "No digas que no",
-    "Por los viejos tiempos",
-    "No me dejes en visto",
-    "Hazlo yaaa",
-    "No lo pospongas",
+    "Ni modo",
+    "Que sean 4 salchipapas",
+    "Porfaaaaaaa",
+    "Tu me odias verdad",
     "¿Qué esperas?",
     "Di sí ahora",
-    "Tú eres buena gente",
-    "Ayuda a este pobre botón",
-    "Hazlo antes de que se acabe",
-    "Tu toque mágico",
+    "Tú eres buena gente Fer",
     "Eres mi única esperanza",
     "Solo tú puedes",
-    "Esto es urgente",
-    "Hazlo por los memes"
+    "Esto es urgente"
 ];
 let indice = 0;
 let tamanoVerde = 10;
