@@ -1,7 +1,7 @@
 const botonRojo = document.getElementById("botonRojo");
 const botonVerde = document.getElementById("botonVerde");
 
-const palabras = [
+  const palabras = [
     "Segura",
     "Por favor",
     "Di que SÍ",
@@ -37,7 +37,7 @@ const palabras = [
     "Eres mi única esperanza",
     "Solo tú puedes",
     "Esto es urgente"
-];
+  ];
 let indice = 0;
 let tamanoVerde = 10;
 
